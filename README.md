@@ -1,3 +1,3 @@
 # JavaScript
 
-This is for my learning and playing around with JavaScript
+This repository is for my learning path and playing around with JavaScript
